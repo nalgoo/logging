@@ -1,6 +1,6 @@
 {
-  "name": "nalgoo/debug",
-  "description": "Debugging utils",
+  "name": "nalgoo/logging",
+  "description": "Logging and formatting utilities",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
